@@ -1,5 +1,5 @@
 # HTTP-Statuscode
 Alle HTTP-Statuscodes
 
-https://de.wikipedia.org/wiki/HTTP-Statuscode
-https://img.shields.io/badge/Http-Statuscodes
+
+![Generic badge](https://img.shields.io/badge/StausCodes-Online-<COLOR>.svg)](https://de.wikipedia.org/wiki/HTTP-Statuscode)
